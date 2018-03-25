@@ -29,4 +29,7 @@
 
 #board .column-container .column .btn-delete-column { color: #73c7d6; background-color: transparent; font-weight: 700; font-size: 1.5rem; position: absolute; right: 10px; top: 5px; width: 25px; height: 25px; cursor: pointer; }
 
+
 #board .column-container .column .add-card { position: absolute; bottom: 0; width: 100%; border-radius: 0 0 5px 5px; height: 40px; font-size: 1rem; font-weight: 700; background-color: #73c7d6; color: #2e4238; cursor: pointer; }
+
+/*# sourceMappingURL=style.css.map */
