@@ -10,7 +10,7 @@
 
 #board {
   height: 100vh;
-  background-image: url("/images/board.jpg");
+  background-image: url("../images/board.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
