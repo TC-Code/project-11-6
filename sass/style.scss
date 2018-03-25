@@ -69,7 +69,6 @@
         .card {
           display: flex;
           padding: 10px 0 10px 10px;
-
           .card-description {
             padding-left: 10px;
           }
@@ -79,6 +78,7 @@
           color: #73c7d6;
           font-size: 1rem;
           cursor: pointer;
+          background-color: transparent;
         }
       }
       .column-title {
